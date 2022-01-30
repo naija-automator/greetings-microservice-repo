@@ -5,7 +5,7 @@ Testing GItHub & Jenkins Integration
 This repository contains the Greetings micro service.
 
 ## Requests
-#update
+#update to simulate change
 The following HTTP requests are covered:
 
 - GET /greetings/hello - respond with `Hello World!` greeting
